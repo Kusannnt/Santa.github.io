@@ -6,3 +6,4 @@ https://github.com/MyNameStawlie/SantaNet/blob/master/SantaNet/Quick%20solutions
 * [Оптимизированная сортировка пузырьком](
 https://github.com/MyNameStawlie/SantaNet/blob/master/SantaNet/Quick%20solutions/Optimized%20bubble%20sort.cpp)
 * [Ряд Фибоначчи до n числа](https://github.com/MyNameStawlie/SantaNet/blob/master/SantaNet/Quick%20solutions/Fibonacci%20Series%20up%20to%20n%20number%20of%20terms.cpp)
+* [Паллиндром числа(проверка)](https://github.com/MyNameStawlie/SantaNet/blob/master/SantaNet/Quick%20solutions/Check%20Palindrome%20Number.cpp)
